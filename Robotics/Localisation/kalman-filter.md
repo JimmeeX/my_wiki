@@ -15,3 +15,7 @@ Kalman Filtering aims to reduce these errors by using one important feature on m
 Now we know that the state model $x=vt$ is not perfectly accurate, but how about the sensor values? Nope, it is not perfect either! The sensor could sometimes pick up irrelevant things in the environment (ie, noise) that affects its readings as well.
 
 Now let's consider the same situation. Let's assume the state model predicts the robot to be at $x=5$. The sensor on the robot predicts the robot to be at $x=6$. What can we do? Intuitively, we would take the average and say the robot is at $x=5.5$! This is ultimately what Kalman Filtering does behind its seemingly complicated maths.
+
+## Resources
+
+[Here](https://www.youtube.com/watch?v=bm3cwEP2nUo) is a humorous and informative explanation of Kalman Filtering using Pokemon.
