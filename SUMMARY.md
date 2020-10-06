@@ -33,7 +33,6 @@
   * [Localisation](robotics/localisation/README.md)
     * [Localisation Methods](robotics/localisation/summary.md)
     * [Kalman Filtering](robotics/localisation/kalman-filter.md)
-  * [README](robotics/summary.md)
 * [customisation](customisation/README.md)
   * [My Desktop](customisation/my-desktop.md)
 * [Web Development](web-development/README.md)
