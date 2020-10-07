@@ -1,3 +1,7 @@
+---
+description: Beautiful Graphs and things.
+---
+
 # Data Visualisation
 
 ## Tools

@@ -1,8 +1,8 @@
+---
+description: Making predictions from data.
+---
+
 # Machine Learning
-
-## Introduction
-
-Making predictions from data.
 
 ## Learning
 

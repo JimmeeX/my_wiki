@@ -31,7 +31,6 @@
   * [Monitoring](shell/monitoring.md)
 * [Robotics](robotics/README.md)
   * [Localisation](robotics/localisation/README.md)
-    * [Localisation Methods](robotics/localisation/summary.md)
     * [Kalman Filtering](robotics/localisation/kalman-filter.md)
 * [customisation](customisation/README.md)
   * [My Desktop](customisation/my-desktop.md)

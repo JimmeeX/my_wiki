@@ -1,6 +1,10 @@
-# Monitoring
+---
+description: >-
+  Here are some useful shell commands to monitor or get information about CPU,
+  GPU, Memory, Network, Storage, etc.
+---
 
-Here are some useful shell commands to monitor or get information about CPU, GPU, Memory, Network, Storage, etc.
+# Monitoring
 
 ## CPU
 

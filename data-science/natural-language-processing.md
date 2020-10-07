@@ -1,3 +1,9 @@
+---
+description: >-
+  Giving computers the ability to interpret sentences and text as well as humans
+  do.
+---
+
 # Natural Language Processing
 
 ## Introduction

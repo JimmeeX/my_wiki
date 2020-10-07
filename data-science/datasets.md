@@ -1,6 +1,10 @@
-# Datasets
+---
+description: >-
+  Have trouble finding data? I have compiled a list of potentially useful sites
+  to help you find free datasets.
+---
 
-Have trouble finding data? I have compiled a list of potentially useful sites to help you find free datasets.
+# Datasets
 
 ## Resources
 

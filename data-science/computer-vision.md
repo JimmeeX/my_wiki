@@ -1,3 +1,9 @@
+---
+description: >-
+  Giving computers the ability to interpret images and videos as well as humans
+  do.
+---
+
 # Computer Vision
 
 ## Introduction

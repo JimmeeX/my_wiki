@@ -1,6 +1,10 @@
-# Git & Github
+---
+description: >-
+  Version Control for coding. Here I will throw in commands I commonly use in my
+  projects.
+---
 
-Version Control for coding. Here I will throw in commands I commonly use in my projects.
+# Git & Github
 
 ## 1. Starting a Project
 

@@ -1,8 +1,11 @@
+---
+description: >-
+  Web Scraping is data extraction from websites utilising HTTP or through a web
+  browser. A website is built using a mark-up language such as HTML, which can
+  be parsed to extract useful data.
+---
+
 # Web Scraping
-
-## Introduction
-
-Web Scraping is data extraction from websites utilising HTTP or through a web browser. A website is built using a mark-up language such as HTML, which can be parsed to extract useful data.
 
 ## Resources
 
