@@ -44,3 +44,7 @@
 
 * [In progress... :\)](lifestyle/in-progress....md)
 
+## Blog
+
+* [Why I Migrated from Windows to Linux](blog/why-i-migrated-from-windows-to-linux.md)
+

@@ -14,7 +14,7 @@ description: Making predictions from data.
 * Most popular cloud services have many accessible tools built using machine learning models. Check out [AWS](https://aws.amazon.com/machine-learning/), [Microsoft Azure](https://azure.microsoft.com/en-us/services/machine-learning/) and [Google Cloud](https://cloud.google.com/products/ai/).
 * [AWS SageMaker](https://aws.amazon.com/sagemaker/) allows you to build, train and deploy models quickly.
 * For those who do not have access to devices with GPUs, [Google Colab](https://colab.research.google.com/) and [Kaggle](https://www.kaggle.com/kernels) allows you to write and run code in the form of a notebook borrowing their GPU power.
-* Some open source programming libraries include [scikit-learn](https://scikit-learn.org/stable/), [StatsModels](https://www.statsmodels.org/stable/index.html), and [TensorFlow](https://www.tensorflow.org/).
+* Some open-source programming libraries include [scikit-learn](https://scikit-learn.org/stable/), [StatsModels](https://www.statsmodels.org/stable/index.html), and [TensorFlow](https://www.tensorflow.org/).
 
 ## Notes
 
